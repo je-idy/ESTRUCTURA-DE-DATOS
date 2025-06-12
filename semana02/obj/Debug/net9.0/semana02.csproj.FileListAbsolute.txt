@@ -1,0 +1,15 @@
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\bin\Debug\net9.0\semana02.exe
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\bin\Debug\net9.0\semana02.deps.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\bin\Debug\net9.0\semana02.runtimeconfig.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\bin\Debug\net9.0\semana02.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\bin\Debug\net9.0\semana02.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.AssemblyInfoInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.AssemblyInfo.cs
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.csproj.CoreCompileInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\refint\semana02.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.genruntimeconfig.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\ref\semana02.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana02\obj\Debug\net9.0\semana02.sourcelink.json
