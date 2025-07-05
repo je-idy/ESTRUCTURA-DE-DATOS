@@ -20,6 +20,13 @@ public class Ejercicio4
             new List<int> { 1, 1 }
         };
 
+        // Mostrar matrices A y B
+        Console.WriteLine("Matriz A:");
+        ImprimirMatriz(A);
+
+        Console.WriteLine("\nMatriz B:");
+        ImprimirMatriz(B);
+
         // Verificamos compatibilidad para multiplicación
         if (A[0].Count != B.Count)
         {
@@ -52,8 +59,13 @@ public class Ejercicio4
         }
 
         // Mostrar el resultado
-        Console.WriteLine("Producto de A x B:");
-        foreach (var fila in resultado)
+        Console.WriteLine("\nProducto de A x B:");
+        ImprimirMatriz(resultado);
+    }
+
+    private static void ImprimirMatriz(List<List<int>> matriz)
+    {
+        foreach (var fila in matriz)
         {
             foreach (var valor in fila)
             {
@@ -63,3 +75,4 @@ public class Ejercicio4
         }
     }
 }
+
