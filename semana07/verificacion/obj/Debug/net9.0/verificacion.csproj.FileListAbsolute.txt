@@ -1,0 +1,15 @@
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\bin\Debug\net9.0\verificacion.exe
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\bin\Debug\net9.0\verificacion.deps.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\bin\Debug\net9.0\verificacion.runtimeconfig.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\bin\Debug\net9.0\verificacion.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\bin\Debug\net9.0\verificacion.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.AssemblyInfoInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.AssemblyInfo.cs
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.csproj.CoreCompileInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.sourcelink.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\refint\verificacion.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\verificacion.genruntimeconfig.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\verificacion\obj\Debug\net9.0\ref\verificacion.dll
