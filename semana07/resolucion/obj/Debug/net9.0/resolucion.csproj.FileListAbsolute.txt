@@ -1,0 +1,15 @@
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\bin\Debug\net9.0\resolucion.exe
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\bin\Debug\net9.0\resolucion.deps.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\bin\Debug\net9.0\resolucion.runtimeconfig.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\bin\Debug\net9.0\resolucion.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\bin\Debug\net9.0\resolucion.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.AssemblyInfoInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.AssemblyInfo.cs
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.csproj.CoreCompileInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.sourcelink.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\refint\resolucion.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\resolucion.genruntimeconfig.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\semana07\resolucion\obj\Debug\net9.0\ref\resolucion.dll

@@ -1,0 +1,15 @@
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\bin\Debug\net9.0\practico02.exe
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\bin\Debug\net9.0\practico02.deps.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\bin\Debug\net9.0\practico02.runtimeconfig.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\bin\Debug\net9.0\practico02.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\bin\Debug\net9.0\practico02.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.AssemblyInfoInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.AssemblyInfo.cs
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.csproj.CoreCompileInputs.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.sourcelink.json
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\refint\practico02.dll
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.pdb
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\practico02.genruntimeconfig.cache
+C:\Users\MARIBEL\Documents\proyecto de estructura de datos\practico02\obj\Debug\net9.0\ref\practico02.dll
